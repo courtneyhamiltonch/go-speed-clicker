@@ -1,0 +1,9 @@
+h1 {
+text-align: center;
+}
+#centered {
+    text-align: center;
+    border: dotted 2px red;
+    width: 100vw;
+    height: 100vh; 
+}
